@@ -1,8 +1,8 @@
 # Nombre de la historia de usuario
 
-**Como un** <user, tipo de usuario or stakeholder>
-**Quiero** <poder hacer/obtener (una feature)>
-**Tal que** <cumplir objetivo (valor de negocio)>
+**Como un** usuario
+**Quiero** loguearme en la aplicación
+**Tal que** pueda acceder a la aplicación
 
 [Cada historia de usuario tiene una razón de ser, un valor que justifica su existencia y,
 si bien eso puede deducirse de la parte "**Tal que**", muchas veces se requiere contexto
